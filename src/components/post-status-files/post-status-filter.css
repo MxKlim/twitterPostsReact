@@ -1,0 +1,11 @@
+.searth-all{
+    background-color:darkcyan;
+    color: #fff;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+.searth-like{
+    background-color: inherit;
+    border: 1px solid #bbbbbb;
+    border-radius: 0 5px 5px 0 ;
+}
